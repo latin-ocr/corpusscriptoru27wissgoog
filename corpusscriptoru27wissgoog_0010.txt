@@ -1,0 +1,14 @@
+ch = codex Cheltenhamensis nr. 12261 (2) saec. VIII.
+
+S = codex Sangallensis nr. 152 saec. VIIII.
+
+P ε codex Parisinus nr. 13360‚ olim Germanensis 740 (208) saec. vnn.
+p ..-. codex Parisinus 13358, olim Germanensis 755 (173) saec. VIIII.
+M =-. codex Monacensis nr. 249 saec. XII.
+
+m = codex Monacensis nr. 806 saec. XII.
+
+V =-. codex vindobonensis 1046 saec. XII.
+
+b = editio princ. Basileae 1506 apud Io. Amerbachium.
+
